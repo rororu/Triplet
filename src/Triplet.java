@@ -1,6 +1,5 @@
 import java.util.*;
 
-//картеж
 public class Triplet<E extends Comparable<E>> {
     private final E first;
     private final E second;
